@@ -41,3 +41,7 @@ https://github.com/chroman/CRGradientNavigationBar
 M13InfiniteTabBar
 
 https://github.com/Marxon13/M13InfiniteTabBar
+
+UIView-AutoLayout
+
+https://github.com/smileyborg/UIView-AutoLayout
